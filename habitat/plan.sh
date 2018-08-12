@@ -6,7 +6,7 @@
 # copy the files we'll need to run the package into a directory in the Habitat
 # Studio that will become the resulting package.
 #
-# To learn more about writing Habitat plans, see Developing Packages
+#  To learn more about writing Habitat plans, see Developing Packages
 # in the Habitat docs at https://www.habitat.sh/docs/developing-packages.
 #
 # To explore all Habitat-maintained and community-contributed packages,
